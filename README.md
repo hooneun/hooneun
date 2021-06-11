@@ -10,7 +10,7 @@
 [![Rust Badge](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust)](https://www.rust-lang.org/)
 [![Go Badge](https://img.shields.io/badge/Go-000000?style=flat-square&logo=go)](https://golang.org/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hooneun&show_icons=true)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hooneun&show_icons=true) -->
 
 
 
