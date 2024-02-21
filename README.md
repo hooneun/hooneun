@@ -8,6 +8,8 @@
 
 [![Rust Badge](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust)](https://www.rust-lang.org/)
 [![Go Badge](https://img.shields.io/badge/Go-000000?style=flat-square&logo=go)](https://golang.org/)
+[![Swift Badge](https://img.shields.io/badge/Swift-000000?style=flat-square&logo=Swift&logoColor=white)](https://developer.apple.com/kr/swift)
+
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hooneun&show_icons=true) -->
 
