@@ -6,7 +6,7 @@
 ---
 [![PHP Badge](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php)](https://www.php.net)
 [![Laravel Badge](https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel)](https://www.laravel.kr)
-
+[![Go Badge](https://img.shields.io/badge/Go-000000?style=flat-square&logo=go)](https://golang.org/)
 
 
 
@@ -16,7 +16,7 @@
 [![Elixir Badge](https://img.shields.io/badge/Elixir-000000?style=flat-square&logo=Elixir)](https://elixir-lang.org/)
 
 [![Rust Badge](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust)](https://www.rust-lang.org/)
-[![Go Badge](https://img.shields.io/badge/Go-000000?style=flat-square&logo=go)](https://golang.org/)
+
 
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hooneun&show_icons=true) -->
