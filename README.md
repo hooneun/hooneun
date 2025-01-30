@@ -12,6 +12,7 @@
 
 ### Hobby
 ---
+[![React Badge](https://shields.io/badge/react-black?logo=react&style=for-the-badge)]
 [![Swift Badge](https://img.shields.io/badge/Swift-000000?style=flat-square&logo=Swift&logoColor=white)](https://developer.apple.com/kr/swift)
 [![Elixir Badge](https://img.shields.io/badge/Elixir-000000?style=flat-square&logo=Elixir)](https://elixir-lang.org/)
 
