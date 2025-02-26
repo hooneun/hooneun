@@ -1,3 +1,5 @@
+<!--
+
 ### Web Developer
 ---
 [![PHP Badge](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php)](https://www.php.net)
@@ -38,4 +40,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://www.codewars.com/users/hooneun/badges/micro" alt="codewar-badges" />
+<!-- img src="https://www.codewars.com/users/hooneun/badges/micro" alt="codewar-badges" />
+
