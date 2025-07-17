@@ -11,7 +11,7 @@ PHP  •  Go  •  TypeScript
 
 **Frameworks & Libraries**
 ```
-Laravel  •  React
+Echo  •  Laravel  •  React
 ```
 
 **Tools**
