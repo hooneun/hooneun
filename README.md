@@ -1,3 +1,41 @@
+# 👋 Hi there
+
+Backend/Web Developer who loves building things with clean code.
+
+## 🛠️ Tech Stack
+
+**Languages**
+```
+PHP  •  Go  •  TypeScript
+```
+
+**Frameworks & Libraries**
+```
+Laravel  •  React
+```
+
+**Tools**
+```
+vim  •  JetBrains  •  VSCode
+```
+
+**AI Tools**
+```
+Claude Code  •  Cursor  •  ChatGPT
+```
+
+## 🎯 Currently Exploring
+
+- **Go** - Building fast, efficient services
+- **Rust** - Systems programming & performance
+- **Fullstack Frameworks** - Modern web development
+
+  
+---
+
+*Keep it simple, keep it clean.*
+
+
 <!--
 
 ### Web Developer
