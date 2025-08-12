@@ -29,6 +29,8 @@ Claude Code  •  Cursor  •  ChatGPT
 - **Go** - Building fast, efficient services
 - **Rust** - Systems programming & performance
 - **Fullstack Frameworks** - Modern web development
+  - Laravel
+  - 🐦‍🔥 Phoenix Framework 
 
   
 ---
