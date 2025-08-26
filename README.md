@@ -30,8 +30,8 @@ Claude Code  •  Cursor  •  ChatGPT
 - **Rust** - Systems programming & performance
 - **Fullstack Frameworks** - Modern web development
   - Laravel
-  - ~~React Router 7~~
   - SvelteKit
+  - ~~React Router 7~~
   - ~~🐦‍🔥 Phoenix Framework~~
 
   
