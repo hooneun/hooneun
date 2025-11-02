@@ -21,7 +21,7 @@ vim  •  JetBrains  •  VSCode
 
 **AI Tools**
 ```
-Claude Code  •  Codex  •  Cursor  •  ChatGPT
+Claude Code  •  Codex  •  Cursor  •  ChatGPT  •  Gemini
 ```
 
 ## 🎯 Currently Exploring
