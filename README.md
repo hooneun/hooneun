@@ -1,7 +1,7 @@
 # 👋 Hi there
 
 Backend/Web Developer who loves building things with clean code.
-
+<!--
 ## 🛠️ Tech Stack
 
 **Languages**
